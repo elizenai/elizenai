@@ -1,7 +1,7 @@
 ## Olá sou a Elizenai, muito prazer!👋
 
  
- 🙋‍♀️ Tenho 22 anos <br>
+ 🙋‍♀️ Tenho 26 anos <br>
  👩‍🎓 Formada em Administração de Empresas. <br>
  👩‍💻 Estudante de desenvolvimento Fron end na Laboratória Brasil <br>
  🌱 Aprendendo mais sobre: HTLM5 | CSS3 | Javascript | Node.js | Jest 
@@ -36,7 +36,6 @@
     
  ![Snake animation](https://github.com/elizenai/elizenai/blob/output/github-contribution-grid-snake.svg)
 
-  
-x
+ 
 
 
