@@ -1,4 +1,10 @@
-## Olá, eu sou a Elizenai Silva 👋
+## Olá sou a Elizenai, muito prazer!👋
+
+ 
+ 🙋‍♀️ Tenho 22 anos <br>
+ 👩‍🎓 Formada em Administração de Empresas. <br>
+ 👩‍💻 Estudante de desenvolvimento Fron end na Laboratória Brasil <br>
+ 🌱 Aprendendo mais sobre: HTLM5 | CSS3 | Javascript | Node.js | Jest 
 
 <div align="center">
   <a href="https://github.com/elizenai">
@@ -30,18 +36,7 @@
     
  ![Snake animation](https://github.com/elizenai/elizenai/blob/output/github-contribution-grid-snake.svg)
 
-<!--
-**elizenai/elizenai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+x
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
