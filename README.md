@@ -1,12 +1,12 @@
 ## Olá, eu sou a Elizenai Silva 👋
 
-<div>
+<div align="center">
   <a href="https://github.com/elizenai">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elizenai&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizenai&layout=compact&langs_count=7&theme=bear/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizenai&layout=compact&langs_count=7&theme=bear"/>
 </div>
   
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Eli-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Eli-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Eli-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -22,8 +22,6 @@
   <br>
   <br>
   
-  
- 
   <div align="center"> 
     <h3> Social: </h3>
     <a href="https:https://www.linkedin.com/in/elizenai/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
