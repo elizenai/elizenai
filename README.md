@@ -4,7 +4,7 @@
  🙋‍♀️ Tenho 26 anos <br>
  👩‍🎓 Formada em Administração de Empresas. <br>
  👩‍💻 Estudante de desenvolvimento Fron end na Laboratória Brasil <br>
- 🌱 Aprendendo mais sobre: HTLM5 | CSS3 | Javascript | Node.js | Jest 
+ 🌱 Tecnologias utilizadas: HTLM5 | CSS3 | Javascript | Node.js | Jest | React | Firebase, entre outras...
 
 -----
 <div align="center">
