@@ -1,7 +1,7 @@
 ## Olá sou a Elizenai, muito prazer!👋
 
  
- 🙋‍♀️ Tenho 26 anos <br>
+ 🙋‍♀️ Tenho 27 anos <br>
  👩‍🎓 Formada em Administração de Empresas. <br>
  👩‍💻 Estudante de desenvolvimento Fron end na Laboratória Brasil <br>
  🌱 Tecnologias utilizadas: HTML5 | CSS3 | Javascript | Node.js | Jest | React | Firebase, entre outras...
